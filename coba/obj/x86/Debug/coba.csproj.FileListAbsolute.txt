@@ -1,0 +1,6 @@
+/home/mahfudly/MonoDevProjects/coba/coba/bin/Debug/coba.exe
+/home/mahfudly/MonoDevProjects/coba/coba/bin/Debug/coba.pdb
+/home/mahfudly/MonoDevProjects/coba/coba/obj/x86/Debug/coba.csprojResolveAssemblyReference.cache
+/home/mahfudly/MonoDevProjects/coba/coba/obj/x86/Debug/coba.csproj.CoreCompileInputs.cache
+/home/mahfudly/MonoDevProjects/coba/coba/obj/x86/Debug/coba.exe
+/home/mahfudly/MonoDevProjects/coba/coba/obj/x86/Debug/coba.pdb

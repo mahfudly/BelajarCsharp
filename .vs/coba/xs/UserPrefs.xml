@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EAEEDB24-D8CC-48ED-907E-63784107659E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="coba/Program.cs">
+    <Files>
+      <File FileName="coba/Program.cs" Line="10" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.coba PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
