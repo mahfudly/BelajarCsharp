@@ -8,6 +8,7 @@ namespace coba
         {
             Console.WriteLine("Hello World!");
 			Console.WriteLine("Aku tamvan, ehehe");
+            Console.WriteLine("TES EA");
         }
     }
 }
